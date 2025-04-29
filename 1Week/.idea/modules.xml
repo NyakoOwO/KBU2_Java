@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1week.iml" filepath="$PROJECT_DIR$/1week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quest1/Quest1.iml" filepath="$PROJECT_DIR$/Quest1/Quest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quest1/Quest2/Quest2.iml" filepath="$PROJECT_DIR$/Quest1/Quest2/Quest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quest3/Quest3.iml" filepath="$PROJECT_DIR$/Quest3/Quest3.iml" />
+    </modules>
+  </component>
+</project>
